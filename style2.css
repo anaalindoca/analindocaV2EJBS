@@ -40,6 +40,10 @@ padding: 24px 0;
     width: 25%;
 }
 .titulo-estudantes{
-
 }
-
+.foto-do-estudante{
+    width: 20%;
+}
+.icon{
+    width: 30px;
+}
